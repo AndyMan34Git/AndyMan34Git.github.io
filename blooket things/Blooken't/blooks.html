@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blooken't - Blooks</title>
+    <link rel="stylesheet" href="css/blooks.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <nav id="sidebar">
+        <ul>
+            <li><a href="blooks.html">Blooks</a></li>
+            <li><a href="market.html">Market</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1 id="blookCounter"> </h1>
+    </header>
+
+    <!-- Compact, fixed info box -->
+    <section id="main-display">
+        <img id="main-image" src="" alt="Click on a blook!" />
+        <div id="blook-info">
+            <div>
+                <h2 id="blook-name">Click on a blook!</h2>
+                <p id="blook-rarity" class="rarity">Rarity: --</p>
+                <p id="blook-quantity" class="rarity">Quantity: --</p>
+            </div>
+        </div>
+        <button onclick="sellDupes()" id="sell-button">Sell</button>
+    </section>    
+
+    <!-- Saved Items Section -->
+    <main>
+        <div id="saved-items"></div>
+    </main>
+    <script src="js/blooks.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+let tokens = Number(localStorage.getItem("tokens")); let item; for (let i = 0; i < savedItems.length; i++) { item = savedItems[i]; tokens += (item.quantity - 1) * sellPrices[item.rarity]; item.quantity = 1 }; localStorage.setItem("tokens", tokens); localStorage.setItem("savedItems", JSON.stringify(savedItems)); updateMainDisplay(item, mainImage.src);
