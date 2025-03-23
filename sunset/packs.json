@@ -2,6 +2,7 @@
     "Medieval": {
         "blooks": ["Elf","Witch","Wizard","Fairy","Slime Monster","Jester","Dragon","Queen","Unicorn","King","Agent Owl","Master Elf","Party Pig","Phantom King"],
         "colors": ["#c8c8c8","#6c6c6c"],
-        "price": 25
+        "price": 25,
+        "multiply": 1000
     }
 }
