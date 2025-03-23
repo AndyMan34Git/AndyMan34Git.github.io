@@ -1,0 +1,17 @@
+{
+    "Elf": { "chance": 13.4, "rarity": 1, "art": "Medieval", "image": "Elf" },
+    "Witch": { "chance": 13.4, "rarity": 1, "art": "Medieval", "image": "Witch" },
+    "Wizard": { "chance": 13.4, "rarity": 1, "art": "Medieval", "image": "Wizard" },
+    "Fairy": { "chance": 13.4, "rarity": 1, "art": "Medieval", "image": "Fairy" },
+    "Slime Monster": { "chance": 13.4, "rarity": 1, "art": "Medieval", "image": "Slime Monster" },
+    "Jester": { "chance": 9, "rarity": 2, "art": "Medieval", "image": "Jester" },
+    "Dragon": { "chance": 9, "rarity": 2, "art": "Medieval", "image": "Dragon" },
+    "Queen": { "chance": 9, "rarity": 2, "art": "Medieval", "image": "Queen" },
+    "Unicorn": { "chance": 5, "rarity": 3, "art": "Medieval", "image": "Unicorn" },
+    "King": { "chance": 1, "rarity": 4, "art": "Medieval", "image": "King" },
+    "Agent Owl": { "chance": 0.08, "rarity": 5, "art": "Medieval", "image": "Agent Owl" },
+    "Master Elf": { "chance": 0.05, "rarity": 5, "art": "Medieval", "image": "Master Elf" },
+    "Wise Owl": { "chance": 0.02, "rarity": 6, "art": "Medieval", "image": "Wise Owl" },
+    "Phantom King": { "chance": 0.005, "rarity": 8, "art": "Medieval", "image": "Phantom King" },
+    "Dark Dragon": { "chance": 0.002, "rarity": 8, "art": "Medieval", "image": "Dark Dragon" }
+}
